@@ -1,0 +1,374 @@
+[
+    {
+      "nome": "Pollo alla griglia con quinoa e avocado",
+      "tempoPreparazione": "25 minuti",
+      "categoria": "healthy-alte-proteine",
+      "introduzione":
+        "Un piatto bilanciato, ricco di proteine e nutrienti essenziali, perfetto per il recupero muscolare post-allenamento. Il pollo magro è abbinato alla quinoa, ricca di proteine vegetali, e all’avocado, che offre grassi sani.",
+      "ingredienti": [
+        { "nome": "Petto di pollo", "quantita": "200g" },
+        { "nome": "Quinoa", "quantita": "100g" },
+        { "nome": "Avocado", "quantita": "1/2" },
+        { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+        { "nome": "Succo di limone", "quantita": "1 cucchiaino" },
+        { "nome": "Sale", "quantita": "q.b." },
+        { "nome": "Pepe", "quantita": "q.b." }
+      ],
+      "procedimento":
+        "Inizia cuocendo la quinoa in acqua salata seguendo le istruzioni sulla confezione. Nel frattempo, scalda una griglia a fuoco medio e cuoci il petto di pollo per circa 5-6 minuti per lato, fino a completa cottura. Una volta pronto, taglia il pollo a fette sottili. Taglia l’avocado a metà, elimina il nocciolo e affettalo. Componi il piatto disponendo la quinoa come base, le fette di pollo sopra e l’avocado ai lati. Condisci con olio d’oliva, succo di limone, sale e pepe. Servi subito per un pasto sano e nutriente."
+    },
+    {
+      "nome": "Frittata di albumi e spinaci",
+      "tempoPreparazione": "15 minuti",
+      "categoria": "healthy-alte-proteine",
+      "introduzione":
+        "Questa frittata è un’opzione leggera, ricca di proteine e ideale per chi cerca un pasto veloce ma nutriente. Gli spinaci aggiungono fibre e vitamine, rendendo il piatto ancora più salutare.",
+      "ingredienti": [
+        { "nome": "Albumi", "quantita": "6" },
+        { "nome": "Spinaci freschi", "quantita": "100g" },
+        { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+        { "nome": "Sale", "quantita": "q.b." },
+        { "nome": "Pepe", "quantita": "q.b." }
+      ],
+      "procedimento":
+        "In una padella antiaderente, scalda l’olio d’oliva a fuoco medio. Aggiungi gli spinaci freschi e lasciali appassire per circa 2-3 minuti. In una ciotola, monta leggermente gli albumi con una forchetta, aggiungendo un pizzico di sale e pepe. Versa gli albumi nella padella con gli spinaci. Abbassa la fiamma e copri la padella con un coperchio. Cuoci per circa 5-7 minuti, finché la frittata non si sarà solidificata completamente. Servi calda o a temperatura ambiente per un pasto veloce e nutriente."
+    },
+    {
+      "nome": "Salmone al vapore con broccoli",
+      "tempoPreparazione": "20 minuti",
+      "categoria": "healthy-alte-proteine",
+      "introduzione":
+        "Un pasto semplice e salutare, perfetto per i pasti post-allenamento. Il salmone è una fonte eccellente di proteine e acidi grassi omega-3, mentre i broccoli aggiungono fibre e micronutrienti.",
+      "ingredienti": [
+        { "nome": "Filetto di salmone", "quantita": "200g" },
+        { "nome": "Broccoli", "quantita": "150g" },
+        { "nome": "Limone", "quantita": "1/2" },
+        { "nome": "Olio d'oliva", "quantita": "1 cucchiaino" },
+        { "nome": "Sale", "quantita": "q.b." },
+        { "nome": "Pepe", "quantita": "q.b." }
+      ],
+      "procedimento":
+        "Porta a ebollizione una pentola con acqua e posiziona sopra una vaporiera. Metti il filetto di salmone e i broccoli tagliati a pezzi nella vaporiera. Copri con un coperchio e cuoci per circa 10-12 minuti, finché il salmone non è completamente cotto e i broccoli sono teneri. Trasferisci tutto su un piatto, aggiungi una spruzzata di succo di limone, un filo d’olio d’oliva, sale e pepe a piacere. Servi subito per un pasto sano e bilanciato."
+    },
+    {
+      "nome": "Tacchino con patate dolci al forno",
+      "tempoPreparazione": "30 minuti",
+      "categoria": "healthy-alte-proteine",
+      "introduzione":
+        "Un piatto sostanzioso e nutriente, ideale per chi desidera mantenere un’alimentazione ricca di proteine e carboidrati complessi per un’energia costante.",
+      "ingredienti": [
+        { "nome": "Fettine di tacchino", "quantita": "200g" },
+        { "nome": "Patate dolci", "quantita": "200g" },
+        { "nome": "Rosmarino", "quantita": "1 rametto" },
+        { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+        { "nome": "Sale", "quantita": "q.b." },
+        { "nome": "Pepe", "quantita": "q.b." }
+      ],
+      "procedimento":
+        "Taglia le patate dolci a spicchi e disponile su una teglia foderata con carta forno. Condisci con olio d’oliva, sale, pepe e un rametto di rosmarino. Inforna a 200°C per circa 25 minuti, girandole a metà cottura. Nel frattempo, cuoci le fettine di tacchino in una padella antiaderente con un filo d’olio per 3-4 minuti per lato. Servi il tacchino accompagnato dalle patate dolci arrosto per un piatto equilibrato e ricco di sapore."
+    },
+    {
+      "nome": "Shake proteico al cioccolato e banana",
+      "tempoPreparazione": "5 minuti",
+      "categoria": "healthy-alte-proteine",
+      "introduzione":
+        "Un frullato veloce, perfetto come spuntino post-allenamento, ricco di proteine per favorire il recupero muscolare e di carboidrati per reintegrare l’energia.",
+      "ingredienti": [
+        { "nome": "Latte scremato", "quantita": "200ml" },
+        { "nome": "Proteine in polvere al cioccolato", "quantita": "1 misurino" },
+        { "nome": "Banana", "quantita": "1" },
+        { "nome": "Burro di arachidi", "quantita": "1 cucchiaino" }
+      ],
+      "procedimento":
+        "In un frullatore, unisci il latte scremato, le proteine in polvere al cioccolato, una banana tagliata a pezzi e un cucchiaino di burro di arachidi. Frulla per circa 30 secondi fino a ottenere una consistenza liscia e omogenea. Versa il frullato in un bicchiere e consumalo subito per un apporto immediato di nutrienti."
+    },
+    {
+        "nome": "Zoodles con gamberi al limone",
+        "tempoPreparazione": "20 minuti",
+        "categoria": "bassi-carboidrati",
+        "introduzione":
+          "Una deliziosa alternativa alla pasta, gli zoodles (spaghetti di zucchine) sono leggeri, a basso contenuto di carboidrati e ricchi di sapore. I gamberi forniscono proteine di alta qualità.",
+        "ingredienti": [
+          { "nome": "Zucchine", "quantita": "3" },
+          { "nome": "Gamberi", "quantita": "200g" },
+          { "nome": "Aglio", "quantita": "1 spicchio" },
+          { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+          { "nome": "Succo di limone", "quantita": "1 cucchiaio" },
+          { "nome": "Prezzemolo", "quantita": "q.b." },
+          { "nome": "Sale", "quantita": "q.b." },
+          { "nome": "Pepe", "quantita": "q.b." }
+        ],
+        "procedimento":
+          "Usa un spiralizzatore per trasformare le zucchine in spaghetti. In una padella capiente, scalda l’olio d’oliva a fuoco medio e aggiungi l’aglio tritato. Cuoci per un minuto, quindi aggiungi i gamberi. Cuoci i gamberi per circa 3-4 minuti, finché diventano rosa. Aggiungi gli zoodles nella padella e mescola per un paio di minuti, giusto il tempo di scaldarli leggermente senza cuocerli troppo. Condisci con succo di limone, prezzemolo tritato, sale e pepe. Servi caldo per un pasto leggero e saporito."
+      },
+      {
+        "nome": "Pollo al curry con cavolfiore",
+        "tempoPreparazione": "30 minuti",
+        "categoria": "bassi-carboidrati",
+        "introduzione":
+          "Un piatto cremoso e speziato, ideale per chi segue una dieta a basso contenuto di carboidrati. Il cavolfiore funge da base perfetta, assorbendo i sapori del curry.",
+        "ingredienti": [
+          { "nome": "Petto di pollo", "quantita": "200g" },
+          { "nome": "Cavolfiore", "quantita": "300g" },
+          { "nome": "Latte di cocco", "quantita": "200ml" },
+          { "nome": "Pasta di curry", "quantita": "1 cucchiaio" },
+          { "nome": "Olio di cocco", "quantita": "1 cucchiaio" },
+          { "nome": "Cipolla", "quantita": "1" },
+          { "nome": "Zenzero fresco", "quantita": "1 cucchiaino" },
+          { "nome": "Sale", "quantita": "q.b." },
+          { "nome": "Pepe", "quantita": "q.b." }
+        ],
+        "procedimento":
+          "Inizia cuocendo il cavolfiore a vapore fino a renderlo tenero. Nel frattempo, scalda l’olio di cocco in una padella e soffriggi la cipolla tritata e lo zenzero grattugiato per 2 minuti. Aggiungi il pollo tagliato a pezzetti e cuoci fino a doratura. Unisci la pasta di curry e mescola per distribuire il sapore. Versa il latte di cocco e lascia cuocere a fuoco medio per 10 minuti. Infine, aggiungi il cavolfiore e cuoci per altri 5 minuti. Regola di sale e pepe e servi caldo."
+      },
+      {
+        "nome": "Burger di tacchino con lattuga",
+        "tempoPreparazione": "15 minuti",
+        "categoria": "bassi-carboidrati",
+        "introduzione":
+          "Un’opzione leggera e gustosa per chi cerca una sostituzione del classico hamburger. Il tacchino magro fornisce proteine di alta qualità senza eccessi di grassi.",
+        "ingredienti": [
+          { "nome": "Macinato di tacchino", "quantita": "200g" },
+          { "nome": "Lattuga", "quantita": "4 foglie grandi" },
+          { "nome": "Uovo", "quantita": "1" },
+          { "nome": "Aglio in polvere", "quantita": "1/2 cucchiaino" },
+          { "nome": "Paprika", "quantita": "1/2 cucchiaino" },
+          { "nome": "Sale", "quantita": "q.b." },
+          { "nome": "Pepe", "quantita": "q.b." }
+        ],
+        "procedimento":
+          "In una ciotola, mescola il macinato di tacchino con l’uovo, l’aglio in polvere, la paprika, il sale e il pepe. Forma due burger con il composto e cuocili in una padella antiaderente per 4-5 minuti per lato, fino a cottura completa. Usa le foglie di lattuga al posto del pane per creare il tuo burger. Aggiungi eventuali condimenti a piacere come avocado o pomodoro. Servi subito per un pasto a basso contenuto di carboidrati e ricco di sapore."
+      },
+      {
+        "nome": "Insalata di tonno e avocado",
+        "tempoPreparazione": "10 minuti",
+        "categoria": "bassi-carboidrati",
+        "introduzione":
+          "Un’insalata veloce e ricca di proteine e grassi sani. Perfetta come pasto leggero per chi è sempre in movimento.",
+        "ingredienti": [
+          { "nome": "Tonno al naturale", "quantita": "150g" },
+          { "nome": "Avocado", "quantita": "1/2" },
+          { "nome": "Pomodorini", "quantita": "100g" },
+          { "nome": "Cipolla rossa", "quantita": "1/4" },
+          { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+          { "nome": "Succo di limone", "quantita": "1 cucchiaino" },
+          { "nome": "Sale", "quantita": "q.b." },
+          { "nome": "Pepe", "quantita": "q.b." }
+        ],
+        "procedimento":
+          "Sgocciola il tonno e mettilo in una ciotola. Aggiungi l’avocado tagliato a cubetti, i pomodorini a metà e la cipolla rossa affettata finemente. Condisci con olio d’oliva, succo di limone, sale e pepe. Mescola bene e servi immediatamente per una pausa sana e gustosa."
+      },
+      {
+        "nome": "Uova strapazzate con funghi e formaggio feta",
+        "tempoPreparazione": "10 minuti",
+        "categoria": "bassi-carboidrati",
+        "introduzione":
+          "Un piatto ricco di sapore, ideale per una colazione o un pasto veloce. Le uova e il formaggio feta forniscono proteine, mentre i funghi aggiungono fibre.",
+        "ingredienti": [
+          { "nome": "Uova", "quantita": "3" },
+          { "nome": "Funghi", "quantita": "100g" },
+          { "nome": "Formaggio feta", "quantita": "50g" },
+          { "nome": "Burro", "quantita": "1 cucchiaino" },
+          { "nome": "Sale", "quantita": "q.b." },
+          { "nome": "Pepe", "quantita": "q.b." }
+        ],
+        "procedimento":
+          "In una padella, sciogli il burro a fuoco medio e aggiungi i funghi affettati. Cuoci per circa 3-4 minuti finché sono teneri. In una ciotola, sbatti le uova con un pizzico di sale e pepe, poi versale nella padella. Cuoci mescolando delicatamente fino a ottenere la consistenza desiderata. Aggiungi il formaggio feta sbriciolato sopra e servi immediatamente."
+      },
+{
+    "nome": "Salmone al forno con asparagi",
+    "tempoPreparazione": "25 minuti",
+    "categoria": "senza-latticini",
+    "introduzione":
+      "Un piatto semplice e bilanciato, ricco di proteine e acidi grassi omega-3, perfetto per una cena leggera.",
+    "ingredienti": [
+      { "nome": "Filetto di salmone", "quantita": "200g" },
+      { "nome": "Asparagi", "quantita": "150g" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Aglio", "quantita": "1 spicchio" },
+      { "nome": "Succo di limone", "quantita": "1 cucchiaio" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Preriscalda il forno a 180°C. Disponi il salmone e gli asparagi su una teglia ricoperta di carta forno. Condisci con olio d'oliva, aglio tritato, succo di limone, sale e pepe. Cuoci in forno per 15-20 minuti, finché il salmone risulta tenero e gli asparagi leggermente croccanti. Servi caldo con una spolverata di pepe."
+  },
+  {
+    "nome": "Pollo alla griglia con insalata di quinoa",
+    "tempoPreparazione": "30 minuti",
+    "categoria": "senza-latticini",
+    "introduzione":
+      "Un pasto equilibrato e senza latticini che combina proteine magre, carboidrati complessi e verdure nutrienti.",
+    "ingredienti": [
+      { "nome": "Petto di pollo", "quantita": "200g" },
+      { "nome": "Quinoa", "quantita": "80g" },
+      { "nome": "Pomodorini", "quantita": "100g" },
+      { "nome": "Cetriolo", "quantita": "1" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Succo di limone", "quantita": "1 cucchiaino" },
+      { "nome": "Prezzemolo", "quantita": "q.b." },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Cuoci la quinoa seguendo le istruzioni sulla confezione e lasciala raffreddare. Griglia il pollo su una piastra ben calda, condendolo con sale e pepe. Taglia i pomodorini e il cetriolo a cubetti e mescolali con la quinoa. Aggiungi olio d’oliva, succo di limone e prezzemolo tritato. Servi il pollo affettato sopra l’insalata di quinoa per un pasto fresco e saziante."
+  },
+  {
+    "nome": "Zuppa di lenticchie rosse e curcuma",
+    "tempoPreparazione": "40 minuti",
+    "categoria": "senza-latticini",
+    "introduzione":
+      "Una zuppa nutriente e ricca di proteine vegetali, perfetta per riscaldarsi nei giorni più freschi.",
+    "ingredienti": [
+      { "nome": "Lenticchie rosse", "quantita": "150g" },
+      { "nome": "Brodo vegetale", "quantita": "500ml" },
+      { "nome": "Cipolla", "quantita": "1" },
+      { "nome": "Carota", "quantita": "1" },
+      { "nome": "Sedano", "quantita": "1 gambo" },
+      { "nome": "Curcuma in polvere", "quantita": "1 cucchiaino" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Scalda l’olio d’oliva in una pentola e soffriggi la cipolla, la carota e il sedano tritati finemente. Aggiungi la curcuma e mescola per sprigionare l’aroma. Versa le lenticchie rosse e il brodo vegetale nella pentola e cuoci a fuoco medio per circa 30 minuti, mescolando di tanto in tanto. Regola di sale e pepe. Frulla parzialmente la zuppa con un mixer a immersione per una consistenza più cremosa e servi calda."
+  },
+  {
+    "nome": "Hamburger di manzo con salsa guacamole",
+    "tempoPreparazione": "20 minuti",
+    "categoria": "senza-latticini",
+    "introduzione":
+      "Un'alternativa sana al classico hamburger, con grassi sani forniti dall'avocado e senza latticini.",
+    "ingredienti": [
+      { "nome": "Macinato di manzo", "quantita": "200g" },
+      { "nome": "Avocado", "quantita": "1" },
+      { "nome": "Succo di lime", "quantita": "1 cucchiaino" },
+      { "nome": "Cipolla rossa", "quantita": "1/4" },
+      { "nome": "Peperoncino", "quantita": "q.b." },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Forma un hamburger con il macinato di manzo e cuocilo su una griglia calda per circa 4-5 minuti per lato. Nel frattempo, prepara la guacamole schiacciando l’avocado e mescolandolo con succo di lime, cipolla tritata, peperoncino, sale e pepe. Servi l’hamburger con la salsa guacamole sopra per un’esplosione di sapore senza latticini."
+  },
+  {
+    "nome": "Spiedini di pollo e verdure",
+    "tempoPreparazione": "30 minuti",
+    "categoria": "senza-latticini",
+    "introduzione":
+      "Un pasto colorato e ricco di proteine e fibre, ideale per un pranzo o una cena leggera.",
+    "ingredienti": [
+      { "nome": "Petto di pollo", "quantita": "200g" },
+      { "nome": "Peperoni", "quantita": "1" },
+      { "nome": "Zucchine", "quantita": "1" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Paprika", "quantita": "1/2 cucchiaino" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Taglia il pollo e le verdure a cubetti di dimensioni simili. Infilali su spiedini di legno alternandoli. Spennella con olio d’oliva e condisci con paprika, sale e pepe. Cuoci gli spiedini su una griglia calda o in forno a 200°C per circa 15 minuti, girandoli a metà cottura. Servi caldi con un contorno di insalata verde."
+  },
+  {
+    "nome": "Bowl di quinoa e verdure grigliate",
+    "tempoPreparazione": "30 minuti",
+    "categoria": "vegetariana",
+    "introduzione":
+      "Un pasto completo e colorato che fornisce carboidrati complessi, fibre e proteine vegetali.",
+    "ingredienti": [
+      { "nome": "Quinoa", "quantita": "80g" },
+      { "nome": "Zucchine", "quantita": "1" },
+      { "nome": "Melanzane", "quantita": "1/2" },
+      { "nome": "Peperoni", "quantita": "1" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Hummus", "quantita": "2 cucchiai" },
+      { "nome": "Semi di sesamo", "quantita": "1 cucchiaino" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Cuoci la quinoa seguendo le istruzioni sulla confezione. Griglia le zucchine, le melanzane e i peperoni tagliati a fette, spennellandoli con olio d’oliva e un pizzico di sale. Componi la bowl: disponi la quinoa come base e aggiungi le verdure grigliate. Guarnisci con hummus e una spolverata di semi di sesamo. Servi subito per un piatto fresco e saziante."
+  },
+  {
+    "nome": "Burger di ceci con salsa allo yogurt vegetale",
+    "tempoPreparazione": "35 minuti",
+    "categoria": "vegetariana",
+    "introduzione":
+      "Un'alternativa vegetale al classico hamburger, perfetta per chi cerca gusto e leggerezza.",
+    "ingredienti": [
+      { "nome": "Ceci cotti", "quantita": "200g" },
+      { "nome": "Pangrattato", "quantita": "3 cucchiai" },
+      { "nome": "Cipolla", "quantita": "1/2" },
+      { "nome": "Aglio", "quantita": "1 spicchio" },
+      { "nome": "Prezzemolo", "quantita": "q.b." },
+      { "nome": "Yogurt vegetale", "quantita": "2 cucchiai" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Frulla i ceci con cipolla, aglio, prezzemolo, sale e pepe fino a ottenere un composto omogeneo. Aggiungi il pangrattato e mescola. Forma dei burger e cuocili in padella con un filo d’olio per 3-4 minuti per lato. Nel frattempo, prepara la salsa mescolando lo yogurt vegetale con un pizzico di sale e pepe. Servi i burger con la salsa sopra e, se desideri, un contorno di verdure fresche."
+  },
+  {
+    "nome": "Frittata di ceci al forno con spinaci",
+    "tempoPreparazione": "40 minuti",
+    "categoria": "vegetariana",
+    "introduzione":
+      "Una frittata senza uova, ricca di proteine vegetali grazie alla farina di ceci e perfetta per un pranzo leggero.",
+    "ingredienti": [
+      { "nome": "Farina di ceci", "quantita": "100g" },
+      { "nome": "Acqua", "quantita": "250ml" },
+      { "nome": "Spinaci freschi", "quantita": "100g" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Paprika", "quantita": "1/2 cucchiaino" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "In una ciotola, mescola la farina di ceci con l'acqua, un pizzico di sale e pepe, fino a ottenere una pastella liscia. Scalda l’olio d’oliva in una padella e salta gli spinaci fino a farli appassire. Versa la pastella nella padella, mescolando gli spinaci, oppure trasferisci tutto in una teglia ricoperta di carta forno. Cuoci in forno preriscaldato a 180°C per circa 25-30 minuti. Lascia raffreddare leggermente prima di servire."
+  },
+  {
+    "nome": "Risotto agli asparagi e limone",
+    "tempoPreparazione": "35 minuti",
+    "categoria": "vegetariana",
+    "introduzione":
+      "Un risotto leggero e cremoso, perfetto per un pasto raffinato e salutare.",
+    "ingredienti": [
+      { "nome": "Riso Arborio", "quantita": "160g" },
+      { "nome": "Asparagi", "quantita": "200g" },
+      { "nome": "Brodo vegetale", "quantita": "500ml" },
+      { "nome": "Cipolla", "quantita": "1/2" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Succo di limone", "quantita": "1 cucchiaio" },
+      { "nome": "Scorza di limone", "quantita": "q.b." },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Taglia gli asparagi a rondelle, lasciando le punte intere. Scalda l’olio d’oliva in una pentola e soffriggi la cipolla tritata. Aggiungi il riso e tostalo per un minuto. Versa il brodo vegetale poco alla volta, mescolando e aggiungendo altro brodo man mano che viene assorbito. A metà cottura, unisci gli asparagi. Quando il risotto è pronto, spegni il fuoco e aggiungi il succo di limone e la scorza grattugiata. Regola di sale e pepe e servi caldo."
+  },
+  {
+    "nome": "Curry di ceci e patate dolci",
+    "tempoPreparazione": "40 minuti",
+    "categoria": "vegetariana",
+    "introduzione":
+      "Un curry cremoso e speziato, perfetto per soddisfare la voglia di comfort food senza rinunciare alla leggerezza.",
+    "ingredienti": [
+      { "nome": "Ceci cotti", "quantita": "200g" },
+      { "nome": "Patate dolci", "quantita": "150g" },
+      { "nome": "Latte di cocco", "quantita": "200ml" },
+      { "nome": "Cipolla", "quantita": "1/2" },
+      { "nome": "Aglio", "quantita": "1 spicchio" },
+      { "nome": "Curry in polvere", "quantita": "1 cucchiaio" },
+      { "nome": "Zenzero fresco", "quantita": "1 pezzetto" },
+      { "nome": "Olio d'oliva", "quantita": "1 cucchiaio" },
+      { "nome": "Sale", "quantita": "q.b." },
+      { "nome": "Pepe", "quantita": "q.b." }
+    ],
+    "procedimento":
+      "Sbuccia e taglia le patate dolci a cubetti. Scalda l’olio in una padella capiente e soffriggi la cipolla, l’aglio e lo zenzero grattugiato. Aggiungi il curry in polvere e mescola per un minuto. Unisci le patate dolci e i ceci, mescolando bene. Versa il latte di cocco e cuoci a fuoco lento per circa 20 minuti, finché le patate sono tenere. Regola di sale e pepe e servi caldo con riso basmati."
+  }
+  
+  
+
+]
