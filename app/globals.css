@@ -12,4 +12,8 @@
     .btn{
         @apply w-48 h-16 bg-transparent border-2 border-[#882BA4] rounded-3xl  flex justify-center items-center text-white font-bold text-xl hover:bg-[#882BA4];
     }
+
+    .menu-mobile{
+        @apply h-[15%]
+    }
 }
