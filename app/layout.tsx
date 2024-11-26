@@ -21,7 +21,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className="bg-background font-roboto relative">
+      <body className="bg-background font-roboto relative max-md:overflow-x-hidden">
         <nav className=" h-40 text-white font-bold flex relative z-20 flex justify-between items-center max-md:bg-background ">
           <div className="w-[40vw] h-full flex justify-start items-center pl-8">
             <Link href="/">

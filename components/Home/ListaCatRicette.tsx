@@ -1,7 +1,15 @@
 import Image from "next/image"
 import Link from "next/link"
 
-const categorieRicette = [
+interface CategorieRicettaType {
+    id: number,
+    link: string, 
+    src: string,
+    alt: string,
+    categoria: string
+}
+
+const categorieRicette: CategorieRicettaType[] = [
     {
         id:1,
         link:"/",
@@ -35,7 +43,7 @@ const categorieRicette = [
 export default function ListaCatRicette(){
 
     return(
-        <div className="w-[25%] h-[100%]  ml-[10vw] flex flex-col justify-start gap-12 ">
+        <div className="w-[25%] max-md:w-[50vw] h-[100%]  ml-[10vw] flex flex-col justify-start gap-12 ">
 
             {
                 categorieRicette.map((x)=>(
@@ -48,6 +56,7 @@ export default function ListaCatRicette(){
                             style={{
                                 objectFit:'cover'
                             }}
+                            
                             /> 
                         </div>
                         <h3 className="text-2xl text-white ml-6">{x.categoria}</h3>

@@ -6,7 +6,7 @@
 
 @layer components{
     .card-workout{
-        @apply w-[280px] h-[600px]  relative; 
+        @apply w-[280px] h-[600px] max-md:w-[30vw]  relative; 
     }
 
     .btn{

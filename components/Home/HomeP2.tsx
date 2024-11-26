@@ -1,10 +1,38 @@
-
+'use client'
 import WorkoutCard from "./WorkoutCard"
+import { useRef } from "react";
+import { FaAngleRight } from "react-icons/fa";
+import { FaAngleLeft } from "react-icons/fa";
+
+
 
 export default function HomeP2(){
+    const scrollContainerRef = useRef<HTMLDivElement>(null);
+
+    const scrollRight = () => {
+        if (scrollContainerRef.current) {
+          scrollContainerRef.current.scrollBy({
+            left: 200, // Scorrere di 200px verso destra
+            behavior: "smooth", // Comportamento di scorrimento fluido
+          });
+        }
+    };
+    const scrollLeft = () => {
+        if (scrollContainerRef.current) {
+          scrollContainerRef.current.scrollBy({
+            left: -200, // Scorrere di 200px verso destra
+            behavior: "smooth", // Comportamento di scorrimento fluido
+          });
+        }
+    };
+
     return(
-        
-        <div className="  h-[100vh] p-8">
+
+        <>
+            <div         
+            ref={scrollContainerRef}
+            className="  h-[100vh] p-8 max-md:mt-24 relative overflow-x-hidden"
+            >
             <h2 className="text-4xl text-white font-medium">Programmi di allenamento</h2>
             <div className="flex justify-evenly mt-12">
                 <WorkoutCard 
@@ -37,10 +65,14 @@ export default function HomeP2(){
                     testo='Allenamento Forza'
 
                 />
-                
-                
             </div>
         </div>
+        <button className="md:hidden absolute w-14 h-14 right-2 top-[100vh] text-white flex justify-center items-center text-3xl bg-standard z-10 rounded-md " onClick={scrollRight}><FaAngleRight/></button>
+        <button className="md:hidden absolute w-14 h-14 left-2 top-[100vh] text-white flex justify-center items-center text-3xl bg-standard z-10 rounded-md" onClick={scrollLeft}><FaAngleLeft/></button>
+
+        </>
+        
+        
         
         
     )

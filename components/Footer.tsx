@@ -15,20 +15,20 @@ import { BsFillTelephoneFill } from "react-icons/bs";
 
 export default function Footer(){
     return(
-        <div className="h-[35vh] bg-standard flex justify-center text-white text-lg">
-            <div className="w-[33%] h-full  p-10 flex flex-col justify-center items-center gap-10 ">
+        <div className="h-[35vh] bg-standard flex justify-center text-white text-lg max-md:text-sm">
+            <div className="w-[33%] h-full  p-10 max-md:p-4 flex flex-col justify-center items-center gap-10 max-md:gap-4 ">
                 <Image
                     src={logo}
                     alt="logo"
                     width={80}
                     height={80}
-                    className="rounded-[50%]"
+                    className="rounded-[50%] max-md"
                 />
                 <p className="w-[80%]">Allenati con noi per raggiungere i tuoi obiettivi! Palestra moderna, corsi per tutti i livelli e supporto personalizzato. La tua forma migliore, il nostro impegno.</p>
                 
 
             </div>
-            <div className="w-[33%] h-full  flex p-10 justify-evenly items-center ">
+            <div className="w-[33%]  h-full flex p-10 justify-evenly items-center ">
                 <ul className="list-none space-y-4">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/">Corsi e Orari</Link></li>
@@ -36,7 +36,7 @@ export default function Footer(){
                     <li><Link href="/">Chi siamo</Link></li>
                     <li><Link href="/">Blog</Link></li>
                 </ul>
-                <ul className="list-none space-y-4">
+                <ul className="list-none space-y-4 max-md:hidden">
                 <li><Link href="/">Contatti</Link></li>
                 <li><Link href="/">Newsletter</Link></li>
                 <li><Link href="/">Termini e condizioni</Link></li>
@@ -45,11 +45,11 @@ export default function Footer(){
 
                 </ul>
             </div>
-            <div className="w-[33%] h-full  p-10 flex flex-col justify-center items-center">
+            <div className="w-[33%] h-full  p-10 max-md:p-4 flex flex-col justify-center items-center">
                 <ul className="list-none space-y-6">
-                    <li><FaLocationDot className="inline w-8 h-8 mb-4 mr-4"/> Via-Roma 23, Napoli 80046</li>
-                    <li><CiMail className="inline w-8 h-8 mr-4 "/> Gym0@gmail.com</li>
-                    <li><BsFillTelephoneFill className="inline w-8 h-8 mr-4 mb-4 "/> +39 333 3333 333</li>
+                    <li><FaLocationDot className="inline w-8 h-8  mb-4 mr-4 max-md:mr-0"/> Via-Roma 23, Napoli 80046</li>
+                    <li><CiMail className="inline w-8 h-8 mr-4  max-md:mr-0"/> Gym0@gmail.com</li>
+                    <li><BsFillTelephoneFill className="inline w-8 h-8 mr-4 mb-4  max-md:mr-0 "/> +39 333 3333 333</li>
                 </ul>
                 <div className="w-[80%] mt-6 flex justify-center gap-6">
                     <Link href="/">

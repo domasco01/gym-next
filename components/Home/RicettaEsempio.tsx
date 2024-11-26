@@ -5,7 +5,7 @@ import { IoArrowForwardCircleOutline } from "react-icons/io5";
 
 export default function RicettaEsempio(){
     return(
-        <div className="w-[65%] h-[100%] flex">
+        <div className="w-[65%] h-[100%] flex max-md:hidden">
             <div className="w-[40%] h-[100%] rounded-[60px] overflow-hidden">
                 <Image 
                     src="https://cdn.pixabay.com/photo/2017/09/19/08/52/pancake-2764589_640.jpg"
